@@ -10,9 +10,7 @@ Raw data sources include:
   - Source: [Census Bureau](https://catalog.data.gov/dataset/tiger-line-shapefile-2017-2010-state-arizona-2010-census-block-state-based)
   -	Last accessed: 8/13/2020
 -	Group quarters data as of 2010 Census 
-  -	Source: [2010 Census Summary File 1](https://api.census.gov/data/2010/dec/sf1?), tables P42 and PCT20<br/><br/>
-  [Technical Documentation](https://www2.census.gov/programs-surveys/decennial/2010/technical-documentation/complete-tech-docs/summary-file/sf1.pdf?)<br/><br/>
-  [Variable List](https://api.census.gov/data/2010/dec/sf1/variables.html)
+  -	Source: [2010 Census Summary File 1](https://api.census.gov/data/2010/dec/sf1?), tables P42 and PCT20. [Technical Documentation](https://www2.census.gov/programs-surveys/decennial/2010/technical-documentation/complete-tech-docs/summary-file/sf1.pdf?). [Variable List](https://api.census.gov/data/2010/dec/sf1/variables.html)
   - Last accessed: 8/13/2020
   
 Processing steps can be found in file `processing.ipynb` and datasets can be found in folder `data`. Put your API key in `key.txt`.
